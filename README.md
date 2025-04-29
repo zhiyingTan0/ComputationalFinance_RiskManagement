@@ -12,5 +12,6 @@
  
 * Factor Models (CAPM, Fama-French, Barra and Axioma-type)
 * Monte Carlo Simulation
+* Quantitative Risk Management( VaR, CVaR)
 * Credit Risk Modeling
-* Asset Pricing (Random Walk, Stochastic Process and Black-scholes Model)
+* Asset Pricing (Arithmetric Random Walk, Geometric Random Walk, Mean Reversion, Geometric Mean Reversion and Black-scholes Model)
